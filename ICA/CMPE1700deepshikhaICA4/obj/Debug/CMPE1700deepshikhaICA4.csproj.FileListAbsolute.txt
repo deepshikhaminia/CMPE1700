@@ -1,0 +1,4 @@
+C:\Users\deepshikhaminia\Desktop\CMPE1700deepshikhaICA4\bin\Debug\CMPE1700deepshikhaICA4.exe.config
+C:\Users\deepshikhaminia\Desktop\CMPE1700deepshikhaICA4\obj\Debug\CMPE1700deepshikhaICA4.csprojResolveAssemblyReference.cache
+C:\Users\deepshikhaminia\Desktop\CMPE1700deepshikhaICA4\bin\Debug\rot.exe.config
+C:\Users\deepshikhaminia\Documents\GitHub\CMPE1700\ICA\CMPE1700deepshikhaICA4\bin\Debug\rot.exe.config
